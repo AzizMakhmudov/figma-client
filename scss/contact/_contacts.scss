@@ -1,0 +1,55 @@
+.form-section {
+  margin: 0 366px;
+  & label {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 160%;
+    color: #1d2130;
+    opacity: 0.6;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  & input::placeholder {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #1d2130;
+  }
+  & input {
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 10px 0;
+    width: 100%;
+    border-bottom: 1px solid rgb(196, 194, 194);
+  }
+  & a {
+    background: #70c174;
+    backdrop-filter: blur(40px);
+    border-radius: 4px;
+    padding: 16px 32px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    color: #ffffff;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-left: 50%;
+  }
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0;
+}

@@ -1,0 +1,25 @@
+.blog-section__items {
+  & h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: black;
+    width: 290px;
+  }
+  & p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #525560;
+    width: 290px;
+  }
+}
+
+.blog-section {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 96px;
+}

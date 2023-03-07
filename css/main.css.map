@@ -1,0 +1,1 @@
+{"version":3,"sources":["../scss/_common.scss","main.css","../scss/blocks/_about.scss"],"names":[],"mappings":"AAAA;EACE,SAAA;EACA,UAAA;EACA,sBAAA;EACA,qBAAA;EACA,gBAAA;EACA,iCAAA;ACCF;;ADEA;EACE,iBAAA;EACA,cAAA;ACCF;;ACXE;EACE,aAAA;EACA,gBAAA;EACA,SAAA;ADcJ;ACXE;EACE,aAAA;EACA,mBAAA;EACA,gBAAA;EACA,SAAA;EACA,mBAAA;ADaJ;ACVE;EACE,aAAA;EACA,WAAA;ADYJ","file":"main.css"}
